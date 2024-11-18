@@ -1,17 +1,18 @@
 ابتدار Forticlient با تنظیمات ذیل متصل می شویم:
-
-
-سپس به 172.50.0.94 ریموت شده
 user: H.PourMoharami
 pass: Qazwsx@13
 
-سپس برای ورود به محیط شبیه سازی به دامنه 172.50.0.106 ریموت شده
 
-user: support
-pass: T@zarv76
+سپس برای ورود به محیط شبیه سازی به دامنه 172.50.0.111 ریموت شده
+user:support  pass: T@zarv76
 
-remote sim:
-pass:Ghey#Thue^
+سپس به 172.50.0.94 ریموت شده
+user:administrator  pass: Ghey#Thue^
+user:support  pass: T@zarv76
+tbs  https://172.50.0.94/TBSPortal/en-US
+user:admin pass:1qaz@WSX
+portal  https://172.50.0.93/
+
 
 ورود به پورتال:
 0077874145 سابونیا
