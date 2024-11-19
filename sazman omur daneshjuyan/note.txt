@@ -1,0 +1,7 @@
+شماره فرایند 6452575 
+
+select * from users.tblusers where userid = 75
+
+exec SP_CU_TemporaryResetPassword '0013188161'
+
+select * from users.TblUsersGroups where GroupId= 1 
